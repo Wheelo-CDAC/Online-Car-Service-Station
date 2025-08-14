@@ -1,0 +1,35 @@
+.signup-wrapper {
+  background: linear-gradient(to right, #dff9fb, #ffffff);
+}
+
+.signup-form {
+  max-width: 500px;
+}
+
+.signup-title {
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.signup-input {
+  height: 45px;
+  font-size: 15px;
+}
+
+.signup-button {
+  height: 45px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.signup-button:hover {
+  background-color: #0056b3;
+}
+
+.login-text {
+  font-size: 14px;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,40 @@
+.login-container {
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+}
+
+.login-form {
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-title {
+  font-weight: 600;
+}
+
+.login-input {
+  height: 45px;
+  font-size: 16px;
+}
+
+.login-button {
+  height: 45px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.signup-text {
+  font-size: 14px;
+}
+
+.signup-link:hover {
+  text-decoration: underline;
+}
+
+.x{
+  color: #196426;
+}
